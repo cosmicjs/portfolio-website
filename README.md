@@ -1,12 +1,12 @@
 # Portfolio Website
 ![Portfolio Website](https://cosmicjs.com/uploads/9653b580-dcf7-11e6-9289-fd387f08ca35-portfolio-website.jpg)
 ###[View Demo](https://cosmicjs.com/apps/portfolio-website/demo)
-A website for a creative agency.  Includes team management, portfolio management and contact form (powered by MailGun).
+A portfolio website powered by Cosmic JS, using the [GraphQL API](https://cosmicjs.com/docs/graphql).  Includes portfolio management and contact form (powered by MailGun).
 
 1. [Log in to Cosmic JS](https://cosmicjs.com).
 2. Create a Bucket.
 3. Go to Your Bucket > Apps.
-4. Install the [Creative Agency App](https://cosmicjs.com/apps/portfolio-website).
+4. Install the [Portfolio Website App](https://cosmicjs.com/apps/portfolio-website).
 5. Edit the MailChimp List URL Metafield to point to your MailChimp List. (see below)
 6. Deploy your Email Capture App to the Cosmic App Server at Your Bucket > Web Hosting.
 
