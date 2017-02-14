@@ -1,7 +1,7 @@
 # Portfolio Website
 ![Portfolio Website](https://cosmicjs.imgix.net/b2f19ca0-f26b-11e6-8893-11cd3268b677-portfolio-website.png?w=1200)
 ###[View Demo](https://cosmicjs.com/apps/portfolio-website/demo)
-A portfolio website powered by Cosmic JS, using the [GraphQL API](https://cosmicjs.com/docs/graphql).  Includes portfolio management and contact form (powered by MailGun).
+Portfolio website powered by Cosmic JS using the [GraphQL API](https://cosmicjs.com/docs/graphql).  Includes portfolio management and contact form (powered by MailGun).
 
 1. [Log in to Cosmic JS](https://cosmicjs.com).
 2. Create a Bucket.
