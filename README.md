@@ -1,5 +1,5 @@
 # Portfolio Website
-![Portfolio Website](https://cosmicjs.com/uploads/9653b580-dcf7-11e6-9289-fd387f08ca35-portfolio-website.jpg)
+![Portfolio Website](https://cosmicjs.imgix.net/b2f19ca0-f26b-11e6-8893-11cd3268b677-portfolio-website.png?w=1200)
 ###[View Demo](https://cosmicjs.com/apps/portfolio-website/demo)
 A website for a creative agency.  Includes team management, portfolio management and contact form (powered by MailGun).
 
