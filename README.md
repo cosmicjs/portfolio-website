@@ -7,8 +7,8 @@ A portfolio website powered by Cosmic JS, using the [GraphQL API](https://cosmic
 2. Create a Bucket.
 3. Go to Your Bucket > Apps.
 4. Install the [Portfolio Website App](https://cosmicjs.com/apps/portfolio-website).
-5. Edit the MailChimp List URL Metafield to point to your MailChimp List. (see below)
-6. Deploy your Email Capture App to the Cosmic App Server at Your Bucket > Web Hosting.
+5. Deploy your Email Capture App to the Cosmic App Server at Your Bucket > Web Hosting.
+6. Add your MailChimp environment variables in Your Bucket > Web Hosting
 
 ###Getting Started
 ```
