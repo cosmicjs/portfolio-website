@@ -1,14 +1,13 @@
 # Portfolio Website
 ![Portfolio Website](https://cosmicjs.imgix.net/b2f19ca0-f26b-11e6-8893-11cd3268b677-portfolio-website.png?w=1200)
 ###[View Demo](https://cosmicjs.com/apps/portfolio-website/demo)
-A portfolio website powered by Cosmic JS, using the [GraphQL API](https://cosmicjs.com/docs/graphql).  Includes portfolio management and contact form (powered by MailGun).
+Portfolio website powered by Cosmic JS using the [GraphQL API](https://cosmicjs.com/docs/graphql).  Includes portfolio management and contact form (powered by MailGun).
 
 1. [Log in to Cosmic JS](https://cosmicjs.com).
 2. Create a Bucket.
 3. Go to Your Bucket > Apps.
 4. Install the [Portfolio Website App](https://cosmicjs.com/apps/portfolio-website).
-5. Edit the MailChimp List URL Metafield to point to your MailChimp List. (see below)
-6. Deploy your Email Capture App to the Cosmic App Server at Your Bucket > Web Hosting.
+5. Deploy your Email Capture App to the Cosmic App Server at Your Bucket > Web Hosting.
 
 ###Getting Started
 ```
@@ -17,7 +16,7 @@ cd portfolio-website
 yarn
 ```
 ####Config
-Copy the `config/production.js`, add your config values and save as a development config file `config/development.js`. (Never push config to your GitHub repo).  This follows the [12 Factor App](https://12factor.net) guidelines.
+Copy the `config/production.js`, add your config values and save as a development config file `config/development.js` (Never push config to your GitHub repo).  This follows the [12 Factor App](https://12factor.net) guidelines.
 ####Run in development
 ```
 yarn development
