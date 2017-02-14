@@ -16,7 +16,7 @@ cd portfolio-website
 yarn
 ```
 ####Config
-Copy the `config/production.js`, add your config values and save as a development config file `config/development.js`. (Never push config to your GitHub repo).  This follows the [12 Factor App](https://12factor.net) guidelines.
+Copy the `config/production.js`, add your config values and save as a development config file `config/development.js` (Never push config to your GitHub repo).  This follows the [12 Factor App](https://12factor.net) guidelines.
 ####Run in development
 ```
 yarn development
